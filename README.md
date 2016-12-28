@@ -1,3 +1,3 @@
 # AndroidScreenMatchingUtil
 util for android device screen matching.<br/>
-see http://hayukleung.duapp.com/index.php/2015/07/04/android-screen-matching/ for more information.
+see http://www.jianshu.com/p/c8d4ae30edd0 for more information.
